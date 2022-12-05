@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:mc="http://schemas.microsoft.com/expression/blend/2008"
+             x:Class="applicationRencontre.HomePage"
+             >
+    <Grid >
+    <VerticalStackLayout Padding="20">
+        <Label 
+            Text="proposition de profils"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+            <ImageButton VerticalOptions="End" SizeChanged="ImageButton_SizeChanged" Padding="30,250,30,0"  HorizontalOptions="Start" WidthRequest="40" Margin="20,683" Source="home.png" />
+
+            <ImageButton VerticalOptions="End" SizeChanged="ImageButton_SizeChanged_1" Padding="60,250,30,0"  HorizontalOptions="CenterAndExpand" WidthRequest="40" Margin="20,683" Source="commentaire.png" />
+
+            <ImageButton VerticalOptions="End" SizeChanged="ImageButton_SizeChanged_2" Padding="90,250,30,0"  HorizontalOptions="Center" WidthRequest="40" Margin="20,683" Source="add.png" />
+
+            <ImageButton VerticalOptions="End" SizeChanged="ImageButton_SizeChanged_3" Padding="120,250,30,0"  HorizontalOptions="End" WidthRequest="40" Margin="20,683" Source="profil.png" />
+
+            <ImageButton VerticalOptions="End" SizeChanged="ImageButton_SizeChanged_4" Padding="30,250,30,0"  HorizontalOptions="Fill" WidthRequest="40" Margin="20,683" Source="recherche.png" />
+
+        </VerticalStackLayout>
+
+  
+    </Grid>
+
+</ContentPage>
+
+
+

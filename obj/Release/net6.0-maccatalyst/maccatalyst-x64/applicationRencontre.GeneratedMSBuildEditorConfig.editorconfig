@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = applicationRencontre
+build_property.ProjectDir = C:\Users\leprince\Desktop\applicationRencontre\
+
+[C:/Users/leprince/Desktop/applicationRencontre/ajouterprofil.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.ajouterprofil.xaml
+build_metadata.AdditionalFiles.TargetPath = ajouterprofil.xaml
+build_metadata.AdditionalFiles.RelativePath = ajouterprofil.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.App.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\App.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\App.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\AppShell.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\MainPage.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\Platforms\Windows\App.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\Resources\Styles\Colors.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/applicationRencontre/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.applicationRencontre.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = applicationRencontre\Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = applicationRencontre\Resources\Styles\Styles.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/LOGIN.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.LOGIN.xaml
+build_metadata.AdditionalFiles.TargetPath = LOGIN.xaml
+build_metadata.AdditionalFiles.RelativePath = LOGIN.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/messagerie.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.messagerie.xaml
+build_metadata.AdditionalFiles.TargetPath = messagerie.xaml
+build_metadata.AdditionalFiles.RelativePath = messagerie.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/profil.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.profil.xaml
+build_metadata.AdditionalFiles.TargetPath = profil.xaml
+build_metadata.AdditionalFiles.RelativePath = profil.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/rechercher.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.rechercher.xaml
+build_metadata.AdditionalFiles.TargetPath = rechercher.xaml
+build_metadata.AdditionalFiles.RelativePath = rechercher.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/Register.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.Register.xaml
+build_metadata.AdditionalFiles.TargetPath = Register.xaml
+build_metadata.AdditionalFiles.RelativePath = Register.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/leprince/Desktop/applicationRencontre/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = applicationRencontre.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

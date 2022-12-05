@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="applicationRencontre.Register"
+             BackgroundColor="#112B47" >
+    <VerticalStackLayout Padding="10" Spacing="10">
+        <Label 
+            FontSize="Large"
+            TextColor="White"
+            Text="Welcome !"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+        <Label 
+            TextColor="White"
+            Text="create a new account and connect with friends"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <VerticalStackLayout Margin="10" Spacing="30">
+            <Entry                
+                x:Name="txtUsername"
+                Placeholder="Username" 
+                TextColor="White" 
+                PlaceholderColor="Gray">
+            </Entry>
+            <Entry
+                x:Name="txtemail"
+                Placeholder="Email" 
+                TextColor="White"
+                PlaceholderColor="Gray">
+
+            </Entry>
+            <Entry
+                x:Name="txtcountry"
+                Placeholder="Country"                 
+                TextColor="White"
+                PlaceholderColor="Gray">
+            </Entry>
+            <Entry
+                x:Name="txtPassword"
+                Placeholder="Password" 
+                IsPassword="True" 
+                TextColor="White"
+                PlaceholderColor="Gray">
+
+            </Entry>
+           
+
+            <Entry
+
+                x:Name="ConfirmPassword"
+                Placeholder="ConfirmPassword" 
+                IsPassword="True" 
+                TextColor="White"
+                PlaceholderColor="Gray">
+
+            </Entry>
+            <Button 
+                VerticalOptions="Center" 
+                Text="SIGN UP" 
+                BackgroundColor="Transparent" 
+                BorderWidth="1.5" CornerRadius="50"
+                BorderColor="ForestGreen"
+                Clicked="Button_Clicked">
+
+            </Button>
+
+        </VerticalStackLayout>
+        
+
+    </VerticalStackLayout>
+    
+    
+</ContentPage>

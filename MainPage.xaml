@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="applicationRencontre.MainPage">
+    <Grid
+         BackgroundColor="#112B47">
+
+        <ScrollView>
+            
+            <VerticalStackLayout
+           
+                Spacing="25"
+                Padding="10,450,10,0"
+                VerticalOptions="Center"
+                >
+
+                <Button Text="Enter"
+                        Clicked="TapGestureRecognizer_Tapped"
+                        BorderColor="ForestGreen"
+                        >
+                   
+                </Button>
+                
+
+
+            </VerticalStackLayout>
+            
+        </ScrollView>
+        
+    </Grid>
+
+</ContentPage>

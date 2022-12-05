@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="applicationRencontre.LOGIN"
+             BackgroundColor="#112B47">
+    
+    <Grid  RowSpacing="15" >
+       
+
+        <VerticalStackLayout>
+            <VerticalStackLayout BackgroundColor="White">
+                <Image  Source="bonome.png" />
+            </VerticalStackLayout >
+
+            <VerticalStackLayout Padding="10">
+                <Label
+               
+                    TextColor="White"
+                    Margin="50"
+                    FontSize="Large"
+                    Text="Welcome Back!"
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Center"/>
+                <Label
+                    TextColor="White"
+                
+                    Margin="2"
+                    FontSize="Small"
+                    Text="connectez vous et Retrouvez vos amis "
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Center"/>
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+
+        <StackLayout Padding="30,250,30,0" VerticalOptions="Center" HorizontalOptions="FillAndExpand" >
+            <Entry 
+                x:Name="txtUsername"
+                Placeholder="username" 
+                TextColor="White" 
+                PlaceholderColor="Gray">
+                
+            </Entry>
+            
+            <Entry
+
+                x:Name="txtPassword"
+                Placeholder="password" 
+                IsPassword="True" 
+                TextColor="White"
+                PlaceholderColor="Gray">
+                
+            </Entry>
+            <StackLayout Spacing="10">
+            <Button 
+               
+                
+                VerticalOptions="Center" 
+                Text="LOGIN" 
+                BackgroundColor="Transparent" 
+                BorderWidth="1.5" CornerRadius="50"
+                BorderColor="ForestGreen"
+                Clicked="Button_Clicked">
+                
+            </Button>
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand"  >
+            <Label HorizontalOptions="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                        <Span    TextColor="White" Text="don't have an account?"/>
+                        <Span Text="Sign Up" TextColor="Gray" FontAttributes="Bold" TextDecorations="Underline"/>
+                    </FormattedString>
+                </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+            </HorizontalStackLayout>
+            </StackLayout>
+
+        </StackLayout>
+            
+
+
+    </Grid>
+    
+</ContentPage>
